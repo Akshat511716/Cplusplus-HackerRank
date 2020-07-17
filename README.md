@@ -1,2 +1,2 @@
-# HackerRank
-HackerRank solution code for different programming languages such as C, C++, and Python
+# HackerRank Solution- C++
+HackerRank solution code for the programming language: C++
